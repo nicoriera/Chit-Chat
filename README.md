@@ -29,4 +29,8 @@
 <div align="center">
 <img src="app/assets/images/message.gif" width="250" height="500"/><img src="app/assets/images/transmission.gif" width="250" height="500"/>
  </div>
+ <br>
+ <div align="center">
+<img src="app/assets/images/chit_chat_add_post.png" width="250" height="500"/><img src="app/assets/images/chit_chat_profil.png" width="250" height="500"/><img src="app/assets/images/chit_chat_sign_in.png" width="250" height="500"/><img src="app/assets/images/chit_chat_documents.png" width="250" height="500"/>
+ </div>
 
