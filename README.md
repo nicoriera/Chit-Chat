@@ -25,7 +25,7 @@
 </ul>
 <p>---</p>
 <p>You can check it here : https://www.chit-chat.website/</p>
-
+ <br>
 <div align="center">
 <img src="app/assets/images/message.gif" width="250" height="500"/><img src="app/assets/images/transmission.gif" width="250" height="500"/>
  </div>
