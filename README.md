@@ -25,8 +25,8 @@
 </ul>
 <p>---</p>
 <p>You can check it here : https://www.chit-chat.website/</p>
-![Vidéo of Chit Chat](app/assets/images/video1.gif)
-![Vidéo of Chit Chat](app/assets/images/video2.gif)
+![Vidéo of Chit Chat](app/assets/images/message.gif)
+![Vidéo of Chit Chat](app/assets/images/feed.gif)
 ![Screenshot of Chit Chat](app/assets/images/screenshot-ChitChat1.png)
 ![Screenshot of Chit Chat](app/assets/images/screenshot-ChitChat2.png)
 ![Screenshot of Chit Chat](app/assets/images/screenshot-ChitChat3.png)
