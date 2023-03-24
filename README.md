@@ -26,7 +26,7 @@
 <p>---</p>
 <p>You can check it here : https://www.chit-chat.website/</p>
 
-![Vidéo of Chit Chat](app/assets/images/message.gif)
-
-![Vidéo of Chit Chat](app/assets/images/transmission.gif)
+<div align="center">
+<img src="app/assets/images/message.gif" width="250" height="500"/><img src="app/assets/images/transmission.gif" width="250" height="500"/>
+ </div>
 
