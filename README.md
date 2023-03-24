@@ -27,4 +27,5 @@
 <p>You can check it here : https://www.chit-chat.website/</p>
 
 ![Vidéo of Chit Chat](app/assets/images/message.gif)
+![Vidéo of Chit Chat](app/assets/images/transmission.gif)
 
